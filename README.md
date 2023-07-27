@@ -1,6 +1,6 @@
-The App is deployed at netlify and heroku
+The App is deployed at netlify and render
 
-Link - https://stack-overflow-ravi.netlify.app/
+Link - https://debug-den.netlify.app/
 
 # `npm install`
 Use the above command on the client side to install dependencies
